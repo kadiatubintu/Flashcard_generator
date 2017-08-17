@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kaybee1/Flashcard_generator/issues"
   },
-  "homepage": "https://github.com/kaybee1/Flashcard_generator#readme"
+  "homepage": "https://github.com/kaybee1/Flashcard_generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1"
+  }
 }
