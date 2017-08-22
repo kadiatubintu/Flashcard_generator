@@ -19,8 +19,8 @@ question = [
     },
     {
       full:"Socks the cat was Bill Clinton/'s pet in the White House",
-      cloze: "Bill Clinton",
-      partial:"Socks the cat was pet in the White House",
+      cloze: "Bill Clinton/'s'",
+      partial:"Socks the cat was ......... pet in the White House",
       cloze:"Bill Clinton"
     }
 
